@@ -36,15 +36,3 @@ Kod koji treba koristiti kao polaznu tačku za domaći zadatak dobija se tako š
 
 <a name="_heading=h.1sbmc9ntjhp5"></a><a name="_heading=h.4qet0p91304d"></a>Ako je korisnik kucao nešto pre ulaska u istoriju unosa, i zatim je listao kroz istoriju, kad je stigao do poslednje i komandom nadole izašao iz istorije, tekst koji je kucao pre ulaska u istoriju će biti obrisan. (ova funkcionalnost ne treba da utiče na samu istoriju unosa, već samo na tekst koji je korisnik kucao pre ulaska u istoriju - ne briše se istorija, već tekst iskucan pre ulaska u istoriju unosa, ukoliko ga je bilo) 
 
-
-# <a name="_heading=h.8kfcakmxanwj"></a><a name="_heading=h.p7p0wz22te6p"></a>Bodovanje
-Zadatak se boduje na sledeći način:
-
-- Čuvanje, prikaz i listanje komandi                 = 7 bodova
-- Pravilno ažuriranje istorije unosa           	 = 2 boda
-- Komande mogu da se izvrše              	 = 6 bodova
-
-U slučaju da je neka od stavki implementirana parcijalno, biće dodeljeni parcijalni poeni (potrebno je demonstrirati da taj parcijalni deo zaista radi).
-
-
-
